@@ -1,0 +1,19 @@
+$color-purple: #8a2be2;
+$color-orange: #ffa500;
+
+body {
+    background-color: $color-orange;
+    height: 100vh;
+    width: 100%;
+    text-align: center;
+}
+.purple {
+    color: $color-purple;
+}
+.purple-1 {
+    background-color: $color-purple;
+}
+
+.white {
+    color: white;
+}
